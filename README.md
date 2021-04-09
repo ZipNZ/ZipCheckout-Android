@@ -6,7 +6,7 @@ An example on how to handle the Zip NZ checkout flow from iOS
 
 * Android Studio
 * Android Emulator (Ideally emulatoing Pixel 3a + For usability)
-* Android SDK 29+
+* Android SDK 29
 
 ## Running the App
 
